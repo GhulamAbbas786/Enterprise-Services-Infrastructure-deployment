@@ -301,7 +301,7 @@ enterprise-services-infrastructure-week5/
 ├── packet-tracer/
 │   └── Enterprise_Core_Tech_Support.pkt
 ├── configs/
-│   ├── R1-HQ-GW-running-config.txt
+│   ├── SW-CORE-01-SRV.cfg
 │   └── r1-hq-gw-backup.cfg
 └── screenshots/
     ├── figure-01-topology.png
