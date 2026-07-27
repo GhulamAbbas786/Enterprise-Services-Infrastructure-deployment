@@ -308,14 +308,20 @@ enterprise-services-infrastructure-week5/
     ├── figure-02-dhcp-pools.png
     ├── figure-03-04-dhcp-verification.png
     ├── figure-05-dns-records.png
-    ├── figure-06-07-dns-verification.png
-    ├── figure-08-09-http-https.png
-    ├── figure-10-11-ftp.png
+    ├── figure-06-dns-verification.png
+    ├── figure-07-dns-verification.png
+    ├── figure-08-http-https.png
+    ├── figure-09-http-https.png
+    ├── figure-10-ftp.png
+    ├── figure-11-ftp.png
     ├── figure-12-tftp.png
-    ├── figure-13-14-ntp.png
+    ├── figure-13-ntp.png
+    ├── figure-14-ntp.png
     ├── figure-15-syslog.png
-    ├── figure-16-17-snmp.png
-    ├── figure-18-19-acl-verification.png
+    ├── figure-16-snmp.png
+    ├── figure-17-snmp.png
+    ├── figure-18-acl-verification.png
+    ├── figure-19-acl-verification.png
     └── figure-20-access-lists.png
 ```
 
