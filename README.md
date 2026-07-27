@@ -99,8 +99,7 @@ The topology carries forward the **R1-HQ-GW** router-on-a-stick gateway, four VL
                     PC-IT-01/02, LAPTOP-IT-01
 ```
 
-> 📸 See `/screenshots/figure-01-topology.png` for the full Cisco Packet Tracer capture.
-
+![Enterprise Network Topology](screenshots/figure-01-topology.png)
 ---
 
 ## 🧮 VLAN & IP Addressing Scheme
@@ -237,6 +236,9 @@ Both ACLs **permit** all traffic to DHCP, DNS, Web, and File services while expl
 | PC-IT-01 | SRV-MGMT `10.10.100.50` | Ping / NTP / Syslog / SNMP | Permitted (admin access) |
 | PC-IT-01 | All Server Farm hosts | Full-service access | Permitted |
 | PC-HR-01 | PC-FIN-01 | Inter-VLAN ping | **Blocked** — `RESTRICT_HR` |
+
+
+> 📸 See `/screenshots` for the full Cisco Packet Tracer capture.
 
 ### CLI Verification Commands Used
 
