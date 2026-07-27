@@ -99,7 +99,7 @@ The topology carries forward the **R1-HQ-GW** router-on-a-stick gateway, four VL
                     PC-IT-01/02, LAPTOP-IT-01
 ```
 
-![Enterprise Network Topology](screenshots/figure-01-topology.png)
+![Enterprise Network Topology](screenshots/figure-01-topology.PNG)
 ---
 
 ## 🧮 VLAN & IP Addressing Scheme
